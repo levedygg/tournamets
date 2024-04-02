@@ -31,4 +31,30 @@
             <td><img src="https://learn.logikaschool.com/uploads/2020/10/swords_0_1603274414.png" height="30" width="30">1 : 0</td>
         </tr>
     </table>
+     font family: sans-serif
+    <h1 style=background color:lightgreen;color darkgreen text-align center;font-size:50px">Pizza Hour</h1>
+    <h2 style="background-color:firebrick;color:white;font size:30px">Вибирай піцу швидше</h2>
+    <table style="font-size:20px;border:1px solid firebrick border-collapse:collapse">
+        <tr style="border:1px solid firebrick">
+            <td>Назва</td>
+            <td>Склад</td>
+            <td>Ціна</td>
+        </tr>
+        <tr style="border 1px solid firebrick">
+            <td>Гавайська</td>
+            <td>Курка, ананас, сир, томатний соус</td>
+            <td>400 грн</td>
+        </tr>
+        <tr style="border:1px solid firebrick>
+            <td>Пеперони</td>
+            <td>Ковбаса, соус, сир, чорний перець, паприка</td>
+            <td>450 грн</td>
+        </tr>
+        <tr style=border:1px solid firebrick">
+            <td>Морська</td>
+            <td>Лосось, мідії, креветки, оливки, сир</td>
+            <td>600 грн</td>
+        </tr>
+    </table>
+    <p><img src="/uploads/2020/10/food-3309418_1920_0_1603914793.jpg" width="550px"/></p>
 </html>
